@@ -1,4 +1,5 @@
 **Create Collection**
+
 `            MongoCollection<Document> collection = database.getCollection("collection_name");
 `
 
